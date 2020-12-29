@@ -64,5 +64,8 @@ my_ebike.wheel.describe_wheel()
 
 
 
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> 9957cc782d910bb4ac9e14e7406e1d7ab3e47784
